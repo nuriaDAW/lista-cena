@@ -2,3 +2,5 @@ chuletas
 cinta de lomo
 salchichas
 pollo
+longaniza
+sangre
